@@ -1,0 +1,9 @@
+.container {
+    border: 5px solid lavender;
+    background-color:mediumpurple;
+}
+
+.box-1 {
+    min-height: 250px;
+    background-color: red;
+}
